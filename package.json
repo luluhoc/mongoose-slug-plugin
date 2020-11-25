@@ -39,7 +39,7 @@
     "mongoose": "^5.6.11",
     "nyc": "^14.1.1",
     "remark-cli": "^7.0.0",
-    "remark-preset-github": "^0.0.16",
+    "remark-preset-github": "^4.0.1",
     "xo": "^0.25.3"
   },
   "engines": {
